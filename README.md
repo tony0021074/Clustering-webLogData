@@ -1,4 +1,4 @@
-# Clustering-webLogData
+# Clustering Web Log data (School individual project)
 
 Individual school assignment. Stduent are asked to do data mining on any data.
 
