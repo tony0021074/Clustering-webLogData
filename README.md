@@ -1,5 +1,7 @@
 # Clustering Web Log data (School individual project)
 
+*runnable
+
 Individual school assignment. Stduent are asked to do data mining on any data.
 
 I propose to do agglomerative clustering on the web log data. Implement 2 similarity functions, Jaccard similarity and Ratcliff/Obershelp algorithm.
